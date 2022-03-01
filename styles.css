@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 50px;
+}
+
+header,
+footer {
+  height: 100px;
+  width: 100%;
+  border: 3px solid black;
+  clear: both;
+}
+
+.hero-page {
+  height: 200px;
+  width: 100%;
+  border: 3px solid black;
+  clear: both;
+}
+
+.feature-page {
+  height: 200px;
+  width: 50%;
+  border: 3px solid black;
+  float: left;
+}
+
+#feature-page-30 {
+  height: 200px;
+  width: 40%;
+}
+
+#features {
+  height: 200px;
+  width: 60%;
+}
